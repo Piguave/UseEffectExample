@@ -4,7 +4,7 @@
 
 > Project Using the Effect Hook - React.js
 
-
+<img src="./src/assets/playground.png" height="300px">
 
 ## Built with 
 
@@ -16,8 +16,7 @@
 
 ## Live Demo
 
-[Live demo link, deployed in Vercel](https://use-state-example.vercel.app/)
-[Live demo link, deployed in Netlify](https://kruger-usestateexample-ap.netlify.app/)
+[Live demo link, deployed in Vercel](https://use-effect-example-lac.vercel.app/)
 ## Run it locally
 
  ### Setup
