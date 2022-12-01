@@ -1,8 +1,8 @@
 <img src="./src/assets/logo.png" height="50px">
 
-# Kruger Star Using the State Hook - React.js
+# Kruger Star Using the Effect Hook - React.js
 
-> Project Using the State Hook - React.js
+> Project Using the Effect Hook - React.js
 
 
 
