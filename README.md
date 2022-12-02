@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live demo link, deployed in Vercel](https://use-effect-example-lac.vercel.app/)
+ -  [Live demo link, deployed in Vercel](https://use-effect-example-vrvi.vercel.app/)
 ## Run it locally
 
  ### Setup
